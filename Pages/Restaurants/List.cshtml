@@ -1,0 +1,30 @@
+@page
+@model ListModel
+@{
+}
+
+<h1>Restaurants</h1>
+
+<form method="get" class="form">
+    <div class="input-group">
+        <input type="search" asp-for="SearchTerm" class="form-control" />
+        <div class="input-group-append">
+            <button type="submit" class="btn btn-secondary">
+                <i class="fa fa-search" aria-hidden="true"></i>
+            </button>
+        </div>
+    </div>
+</form>
+<table class="table">
+    @foreach (var restaurant in Model.Restaurants)
+    {
+        <tr>
+            <td>@restaurant.Name</td>
+            <td>@restaurant.Location</td>
+            <td>@restaurant.Cuisine</td>
+        </tr>
+    }
+</table>
+
+
+<div>@Model.Message</div>

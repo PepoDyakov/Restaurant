@@ -1,0 +1,10 @@
+/Users/pepodyakov/Coding/NETCORE Projects/Restaurant/Restaurant.Core/bin/Debug/net5.0/Restaurant.Core.deps.json
+/Users/pepodyakov/Coding/NETCORE Projects/Restaurant/Restaurant.Core/bin/Debug/net5.0/Restaurant.Core.dll
+/Users/pepodyakov/Coding/NETCORE Projects/Restaurant/Restaurant.Core/bin/Debug/net5.0/ref/Restaurant.Core.dll
+/Users/pepodyakov/Coding/NETCORE Projects/Restaurant/Restaurant.Core/bin/Debug/net5.0/Restaurant.Core.pdb
+/Users/pepodyakov/Coding/NETCORE Projects/Restaurant/Restaurant.Core/obj/Debug/net5.0/Restaurant.Core.csprojAssemblyReference.cache
+/Users/pepodyakov/Coding/NETCORE Projects/Restaurant/Restaurant.Core/obj/Debug/net5.0/Restaurant.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pepodyakov/Coding/NETCORE Projects/Restaurant/Restaurant.Core/obj/Debug/net5.0/Restaurant.Core.csproj.CoreCompileInputs.cache
+/Users/pepodyakov/Coding/NETCORE Projects/Restaurant/Restaurant.Core/obj/Debug/net5.0/Restaurant.Core.dll
+/Users/pepodyakov/Coding/NETCORE Projects/Restaurant/Restaurant.Core/obj/Debug/net5.0/ref/Restaurant.Core.dll
+/Users/pepodyakov/Coding/NETCORE Projects/Restaurant/Restaurant.Core/obj/Debug/net5.0/Restaurant.Core.pdb
